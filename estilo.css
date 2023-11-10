@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+/* font-family: 'Roboto Slab', serif; */
+
+.navbar{
+    background-color: rgba(230, 139, 199, 0.726);
+}
+
+.navbar-toggle i{
+    color: black;
+}
+
+.nav-link{
+    padding-left: 10px !important;
+}
+
+.nav-link:hover{
+    background-color: black;
+}
+
+.jumbotron{
+background-image:url(imagenes/hairdressing-salon-2693077_1280.jpg);
+background-size: cover;
+background-position: center;
+height: 350px;
+color: rgb(230, 139, 200);
+text-shadow: 0 0 5px #070707;
+font-family: 'Roboto Slab', serif;
+}
+
+.h2{
+    font-family: 'Roboto Slab', serif;
+    color: rgba(230, 139, 199, 0.726);
+}
+.p{
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+}
+.item{
+    height: 350px;;
+    border: 5px solid rgb(230, 139, 200);
+    background-color: rgb(245, 236, 242);
+    margin-bottom: 10px;
+}
+
+.item1{
+    background-position: center;
+}
+
+.conteiner-fluit-2{
+    background-color: rgba(230, 139, 199, 0.726);
+}
