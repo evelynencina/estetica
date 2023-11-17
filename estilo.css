@@ -30,7 +30,8 @@ font-family: 'Roboto Slab', serif;
 
 .h2{
     font-family: 'Roboto Slab', serif;
-    color: rgba(230, 139, 199, 0.726);
+    background-color: rgba(230, 139, 199, 0.726);
+    background-position: center;
 }
 .p{
     font-family: 'Roboto Slab', serif;
@@ -49,4 +50,44 @@ font-family: 'Roboto Slab', serif;
 
 .conteiner-fluit-2{
     background-color: rgba(230, 139, 199, 0.726);
+}
+
+.jumbotron2{
+    background-image:url(imagenes/pxp.jpg);
+background-size: cover;
+background-position: center;
+height: 600px;
+color: rgb(230, 139, 200);
+text-shadow: 0 0 5px #070707;
+font-family: 'Roboto Slab', serif;
+}
+
+.jumbotron3{
+    background-image:url(imagenes/uñasfondo.jpg);
+background-size: cover;
+background-position: center;
+height: 600px;
+color: rgb(230, 139, 200);
+text-shadow: 0 0 5px #070707;
+font-family: 'Roboto Slab', serif;
+}
+
+.jumbotron4{
+    background-image:url(imagenes/tratamientosfondo.jpg);
+background-size: cover;
+background-position: center;
+height: 600px;
+color: rgb(230, 139, 200);
+text-shadow: 0 0 5px #070707;
+font-family: 'Roboto Slab', serif;
+}
+
+.jumbotron5{
+    background-image:url(imagenes/peinadofondo.jpg);
+background-size: cover;
+background-position: center;
+height: 600px;
+color: rgb(230, 139, 200);
+text-shadow: 0 0 5px #070707;
+font-family: 'Roboto Slab', serif;
 }
